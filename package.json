@@ -1,0 +1,23 @@
+{
+  "name": "my-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-fire/my-npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-fire/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/s-fire/my-npm-package#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
